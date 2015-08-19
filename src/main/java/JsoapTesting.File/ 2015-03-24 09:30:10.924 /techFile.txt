@@ -1,0 +1,220 @@
+<!--?xml version="1.0"?-->
+<html>
+ <head></head>
+ <body>
+  <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"> 
+   <channel> 
+    <title>&lt;![CDATA[Tech News]]&gt;</title> 
+    <link /> 
+    <description>
+     Tech News
+    </description> 
+    <img />
+    <title>The Star Online</title>
+    <link />http://www.thestar.com.my/
+    <url>
+     http://clips.thestar.com.my/img/TSOL_Logo125x40.png
+    </url> 
+    <language>
+     en
+    </language> 
+    <item> 
+     <guid ispermalink="false">
+      {4CB32507-77BC-42D8-8BAA-14076A9CDB41}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/24/Dont-throw-away-the-packing-peanuts-they-could-charge-your-gadget 
+     <title>&lt;![CDATA[Don’t throw away the packing peanuts, they could charge your gadget]]&gt;</title> 
+     <description>
+      Scientists have discovered a new technology that converts polystyrene packing peanuts into high performance carbon electrodes to make lithium-ion batteries.
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 09:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/23/doc6jr11c9tiwn30eel3u3.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/23/doc6jr11c9tiwn30eel3u3.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       ONE MAN&amp;#39;S TRASH: Millions and millions of packing peanuts are used to protect fragile shipments every year, and scientists have discovered how to put them to good use. – AFP/Relaxnews
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {601FD191-A617-4240-BFA3-89868B1FA606}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/24/FAA-plans-new-steps-to-speed-up-commercial-drone-use-sources 
+     <title>&lt;![CDATA[FAA plans new steps to speed up commercial drone use: sources]]&gt;</title> 
+     <description>
+      The US Federal Aviation Administration plans to unveil new steps soon to make it easier for companies to use drone aircraft for specific business operations, according to people with knowledge of the matter.
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 08:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/23/doc6cydwd1ca1l1eo563az4.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/23/doc6cydwd1ca1l1eo563az4.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       POTENTIALLY GOOD NEWS: The FAA intends to streamline the process by no longer requiring companies with exemptions to obtain a new certificate of authority for each new use of a drone, the people familiar with the matter said. – Reuters
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {27DDBC0B-E312-4ABB-978A-3D4120D7E674}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/24/3D-printing-cartilage-to-take-rhinoplasty-by-the-nose 
+     <title>&lt;![CDATA[3D printing cartilage to take rhinoplasty by the nose]]&gt;</title> 
+     <description>
+      In just 16 minutes, it&amp;#39;s possible to print out living cartilage to give you a new nose, thanks to scientists at the Federal Polytechnic University in Zurich (ETH Z&amp;#252;rich).
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 07:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/rhinoplasty.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/rhinoplasty.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       FIRST STEP: They may look like Venetian masks, but they represent the steps towards making 3D printed, living cartilage. – ETH Zurich/Cartilage Engineering and Regeneration Group
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {15475C52-DBCC-41EE-8453-00AA97435B2D}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/24/Blur-shares-new-track-online 
+     <title>&lt;![CDATA[Blur shares new track online]]&gt;</title> 
+     <description>
+      British band Blur have shared the second track from their comeback album online.
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 06:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/23/doc6jpm68m1t55pfpzk4u1.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/23/doc6jpm68m1t55pfpzk4u1.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       INTERESTING: There Are Too Many Of Us sees lead singer Damon Albarn confronting issues such as overpopulation and the housing crisis. – 2015 YouTube/Blur
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {2E7DE181-2686-4F25-AF29-2CDC7F87F939}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/Samsung-Galaxy-S6 
+     <title>&lt;![CDATA[Samsung S6 and S6 Edge to launch on April 2 (updated)]]&gt;</title> 
+     <description>
+      Fans of Samsung will not have to wait much longer as the South Korean company is launching the Galaxy S6 and S6 Edge smartphones on April 2.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 16:54:00 +08:00
+     </pubdate> 
+     <author>
+      LEE KAH LENG
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/23/doc6jqzwas92rp1l5kzk3u2.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/23/doc6jqzwas92rp1l5kzk3u2.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       The S6 (left) and S6 Edge were codenamed Project Zero internally because Samsung went back to the drawing board and reevaluated every aspect of the smartphone design and feature set.
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {EF99CAEA-FD91-4781-BE5D-A0848547229F}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/Hon-Hai-could-help-to-rescue-struggling-Sharp 
+     <title>&lt;![CDATA[Hon Hai could help to rescue struggling Sharp]]&gt;</title> 
+     <description>
+      Taiwan&amp;#39;s Hon Hai Precision Industry Co is considering joining efforts to help rescue Japanese electronics maker Sharp Corp, the company said in a statement.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 16:48:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/HonHaiReuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/HonHaiReuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       DISTINCT POSSIBILITY: Hon Hai&amp;#39;s willingness to &amp;quot;participate&amp;quot; in Sharp has never been limited to investing, but could include technology licensing transfer and other forms of cooperation, according to the statement from Hon Hai, which is also known as Foxconn. – Reuters
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {AA8A8EE1-AEC9-4350-A540-47C56D3FC67D}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/China-to-reap-Alibaba-windfall-as-tightens-up-on-tax 
+     <title>&lt;![CDATA[China to reap Alibaba windfall as tightens up on tax]]&gt;</title> 
+     <description>
+      China could make billions of dollars from taxing gains made by employees of e-commerce giant Alibaba Group who are free to sell their shares for the first time since its IPO, as the country tightens up its leaky mechanisms for tax collection.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 15:53:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/JackMareuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/JackMareuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       THE TAXMAN COMETH: Although Alibaba did not disclose the identity of the shareholders subject to the lock-up, many will be taxable in China, where most of its 22,000 people are employed. – Reuters
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {5C15C14E-1287-4AB1-97F2-E3DB5664F6CC}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Hardware/PC/2015/03/23/Slim-and-sleek 
+     <title>&lt;![CDATA[Xperia Z3 Tablet Compact: Slim and sleek]]&gt;</title> 
+     <description>
+      Feel free to give Sony’s latest tablet a dunk.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 15:45:00 +08:00
+     </pubdate> 
+     <author>
+      By LIM YIN TUNG
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Intech/2015/03/23/WesXperiaZ3Tab_tk_5.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Intech/2015/03/23/WesXperiaZ3Tab_tk_5.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Sony Xperia Z3 Tablet Compact
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {1428DC31-AAF6-4288-A135-80DBD844DF6F}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/Uber-ties-up-with-Times-Internet-for-India-expansion 
+     <title>&lt;![CDATA[Uber ties up with Times Internet for India expansion]]&gt;</title> 
+     <description>
+      Uber Technologies Inc, the online ride-hailing company, has entered into a &amp;quot;strategic partnership&amp;quot; with Times Internet, as it looks to expand operations in India, its largest market outside the United States.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 14:47:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/UberIndiandriverReuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/UberIndiandriverReuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       STRATEGIC TIE UP: Under the agreement, Times Internet will work on promotions to increase awareness about Uber and also help the US-based taxi company localise its services for India. – Reuters
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {F8B1FE83-45B3-408F-8F18-53037BAB6D3E}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/Arcade-magic-The-characters-behind-Pixels-alien-force 
+     <title>&lt;![CDATA[Arcade magic: The characters behind 'Pixels' alien force]]&gt;</title> 
+     <description>
+      In just a few days since its release, the trailer for Adam Sandler&amp;#39;s upcoming summer 2015 movie release Pixels has set a new viewing record for Sony. A quick refresher on where the iconic arcade motifs of Pixels came from in the first place, and where to find the games today, on mobile, browser, console or computer.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 14:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/pixels_STITCHED2.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/pixels_STITCHED2.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       RETRO FUN: Curious about the (let&amp;#39;s face it) old videogames in the movie Pixels? Here&amp;#39;s a quick refresher on where the iconic arcade motifs of Pixels came from, and where to find the games today. – AFP/Relaxnews
+      </media:description>
+     </media:content> 
+    </item> 
+   </channel> 
+  </rss> 
+ </body>
+</html>

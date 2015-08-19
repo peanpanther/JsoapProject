@@ -1,0 +1,238 @@
+<!--?xml version="1.0"?-->
+<html>
+ <head></head>
+ <body>
+  <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"> 
+   <channel> 
+    <title>&lt;![CDATA[Fitness]]&gt;</title> 
+    <link /> 
+    <description>
+     Fitness
+    </description> 
+    <img />
+    <title>The Star Online</title>
+    <link />http://www.thestar.com.my/
+    <url>
+     http://clips.thestar.com.my/img/TSOL_Logo125x40.png
+    </url> 
+    <language>
+     en
+    </language> 
+    <item> 
+     <guid ispermalink="false">
+      {CD6BD26F-D4BF-43B3-9758-482C1B1C5A35}
+     </guid> 
+     <link />http://www.thestar.com.my/Lifestyle/Viewpoints/Two-Fit/Profile/Articles/2015/03/22/Preventing-stitches-and-cramps 
+     <title>&lt;![CDATA[Preventing stitches and cramps]]&gt;</title> 
+     <description>
+      For an active person, stitches and cramps are quite common. Here’re some tips to prevent them from occurring.
+     </description> 
+     <pubdate>
+      Sun, 22 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+     <author>
+      By REVATHI MURUGAPPAN
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Health/2015/03/22/sfit_fittwofit2203_py_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Health/2015/03/22/sfit_fittwofit2203_py_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       A stitch could mean that you have either wolfed down a heavy meal or drunk too much highly concentrated fluids right before commencing exercise. – Filepic
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {A6AFF73D-C98B-4D64-834D-305293F542E7}
+     </guid> 
+     <link />http://www.thestar.com.my/Lifestyle/Family/Features/2015/03/21/Beware-of-obesity-during-pregnancy 
+     <title>&lt;![CDATA[Beware of obesity during pregnancy]]&gt;</title> 
+     <description>
+      Being mindful of weight gain when you are with child is important. Obesity can increase a pregnant women’s chances of gestational diabetes, hypertension, preeclampsia, long labour, labour interventions and miscarriage.
+     </description> 
+     <pubdate>
+      Sat, 21 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+     <author>
+      By LESLIE MANN
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/features/2015/03/19/sfit_fitpregnant2203_py_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/features/2015/03/19/sfit_fitpregnant2203_py_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Maintaining a healthy diet during your pregnancy will help prevent unhealthy weight gain. Photo: TNS
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {76082D70-A069-4959-B328-646BFF586B5B}
+     </guid> 
+     <link />http://www.thestar.com.my/Lifestyle/Health/2015/03/20/Breast-cancer-survivors-must-make-healthy-life-choices 
+     <title>&lt;![CDATA[Breast cancer survivors must make healthy life choices]]&gt;</title> 
+     <description>
+      The challenge for breast cancer patients is preventing a recurrence.
+     </description> 
+     <pubdate>
+      Fri, 20 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+     <author>
+      By S. INDRAMALAR
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/20/doc6g5hrr7h3d2m1e6n9bv.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/20/doc6g5hrr7h3d2m1e6n9bv.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       The Dragon Dream Team raise their paddles in preparation to start a practice run on Rex Lake in Akron, Ohio, USA, on July 2, 2014. The team is made up entirely of breast cancer survivors. Filepic
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {A6472BEC-CD91-41FB-ACC4-AEE1A2F0F245}
+     </guid> 
+     <link />http://www.thestar.com.my/Lifestyle/Viewpoints/Tell-Me-About/Profile/Articles/2015/03/19/Frozen-shoulder-and-golfers-elbow-How-they-can-disrupt-your-life 
+     <title>&lt;![CDATA[Frozen shoulder and golfer’s elbow: How they can disrupt your life]]&gt;</title> 
+     <description>
+      Understanding stiffness and pain involving the shoulder or elbow.
+     </description> 
+     <pubdate>
+      Thu, 19 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+     <author>
+      By Dr Y.L.M.
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/features/2015/03/19/str2_tell1903_py_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/features/2015/03/19/str2_tell1903_py_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       At arm’s length: Golfer’s elbow is very similar to tennis elbow. And it’s not only limited to golfers. If you play tennis or any sports that uses a racket, and repeatedly use your wrists or clench your fingers, you can also develop this. Photo: AFP
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {5B2FC074-F299-410C-AD86-EF3A1139A467}
+     </guid> 
+     <link />http://www.thestar.com.my/Lifestyle/Health/2015/03/17/New-technique-may-be-able-to-detect-cancer-at-early-stages 
+     <title>&lt;![CDATA[New technique may be able to detect cancer at early stages]]&gt;</title> 
+     <description>
+      A new method for cancer detection, ‘liquid biopsy’, holds the promise of detecting the reappearance of cancer much earlier and more accurately than current methods.
+     </description> 
+     <pubdate>
+      Tue, 17 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+     <author>
+      By MARK JOHNSON
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/features/2015/03/12/str2_fitbiopsy1203_py_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/features/2015/03/12/str2_fitbiopsy1203_py_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       In the blood: According to associate professor of pathology Wang, if this new tool can be developed, it would be a very powerful technology in the fight against cancer. Photo: TNS
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {C4329275-42BB-4B2B-84DD-552ABF05DFF8}
+     </guid> 
+     <link />http://www.thestar.com.my/Lifestyle/Health/2015/03/15/New-diabetes-drug-launched 
+     <title>&lt;![CDATA[New diabetes drug launched]]&gt;</title> 
+     <description>
+      A once-daily medication for diabetes is now available in Malaysia.
+     </description> 
+     <pubdate>
+      Sun, 15 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Health/2015/03/15/sfit_fitdiabetes1503_py.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Health/2015/03/15/sfit_fitdiabetes1503_py.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       According to the International Diabetes Federation (IDF)’s latest findings, diabetes patient population in the Western Pacific Region is expected to increase from 138.2 million to approximately 201.8 million people within 20 years. Photo: AFP
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {F6C23EFA-C47D-462F-A3AA-782D19EC705C}
+     </guid> 
+     <link />http://www.thestar.com.my/Lifestyle/Health/2015/03/15/What-do-you-know-about-epilepsy 
+     <title>&lt;![CDATA[What do you know about epilepsy?]]&gt;</title> 
+     <description>
+      The Malaysian Society of Epilepsy aims to ‘bring epilepsy out of the shadows’ and educate the public about this often misunderstood disease.
+     </description> 
+     <pubdate>
+      Sun, 15 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+     <author>
+      By Dr SHERRINI BAZIR AHMAD
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Health/2015/03/15/sfit_fitepilepsy1503_py_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Health/2015/03/15/sfit_fitepilepsy1503_py_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Those trapped in the myths and misconceptions surrounding epilepsy are often shunned and socially isolated. Photo: TNS
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {68444F2F-5EB8-4297-B5D3-EDFAAD7B5825}
+     </guid> 
+     <link />http://www.thestar.com.my/Lifestyle/Health/2015/03/15/Testing-for-diabetes 
+     <title>&lt;![CDATA[Before it gets too sweet: Testing for diabetes]]&gt;</title> 
+     <description>
+      Doctors have at their disposal various ways to test for diabetes.
+     </description> 
+     <pubdate>
+      Sun, 15 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+     <author>
+      By Dr Milton Lum
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Health/2015/03/15/sfit_fitmilton1503_py_2.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Health/2015/03/15/sfit_fitmilton1503_py_2.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Glycohaemoglobin (also known as glycated haemoglobin) comprises 6-8 of haemoglobin, and is formed when blood glucose attaches itself to haemoglobin. Photo: AFP
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {82329B13-5D18-4E3E-A033-DCEE3861906F}
+     </guid> 
+     <link />http://www.thestar.com.my/Lifestyle/Health/2015/03/15/Managing-high-blood-pressure 
+     <title>&lt;![CDATA[Managing high blood pressure]]&gt;</title> 
+     <description>
+      Understand what high blood pressure is so that you can take steps to effectively control the condition.
+     </description> 
+     <pubdate>
+      Sun, 15 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Health/2015/03/15/sfit_fitgreateastern1503_py_2.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Health/2015/03/15/sfit_fitgreateastern1503_py_2.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       The risk of suffering from the complications of hypertension is increased if you are overweight. Photo: AFP
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {EFF05264-CC21-4721-BA3D-2C4E03EDC3CC}
+     </guid> 
+     <link />http://www.thestar.com.my/Lifestyle/Health/2015/03/15/A-cool-tool 
+     <title>&lt;![CDATA[A cool tool: Riding the ElliptiGO]]&gt;</title> 
+     <description>
+      The ElliptiGO provides runners a new way to cross train without impact on the joints.
+     </description> 
+     <pubdate>
+      Sun, 15 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+     <author>
+      By REVATHI MURUGAPPAN
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Health/2015/03/15/elliptigo150315.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Health/2015/03/15/elliptigo150315.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       The ElliptiGO is a cross between a conventional bicycle and the elliptical trainer. Photos: LOW BOON TAT/The Star
+      </media:description>
+     </media:content> 
+    </item> 
+   </channel> 
+  </rss> 
+ </body>
+</html>

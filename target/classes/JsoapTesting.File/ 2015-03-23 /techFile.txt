@@ -1,0 +1,223 @@
+<!--?xml version="1.0"?-->
+<html>
+ <head></head>
+ <body>
+  <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"> 
+   <channel> 
+    <title>&lt;![CDATA[Tech News]]&gt;</title> 
+    <link /> 
+    <description>
+     Tech News
+    </description> 
+    <img />
+    <title>The Star Online</title>
+    <link />http://www.thestar.com.my/
+    <url>
+     http://clips.thestar.com.my/img/TSOL_Logo125x40.png
+    </url> 
+    <language>
+     en
+    </language> 
+    <item> 
+     <guid ispermalink="false">
+      {2E7DE181-2686-4F25-AF29-2CDC7F87F939}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/Samsung-Galaxy-S6 
+     <title>&lt;![CDATA[Samsung S6 and S6 Edge to launch on April 2 (updated)]]&gt;</title> 
+     <description>
+      Fans of Samsung will not have to wait much longer as the South Korean company is launching the Galaxy S6 and S6 Edge smartphones on April 2.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 16:54:00 +08:00
+     </pubdate> 
+     <author>
+      LEE KAH LENG
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/23/doc6jqzwas92rp1l5kzk3u2.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/23/doc6jqzwas92rp1l5kzk3u2.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       The S6 (left) and S6 Edge were codenamed Project Zero internally because Samsung went back to the drawing board and reevaluated every aspect of the smartphone design and feature set.
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {EF99CAEA-FD91-4781-BE5D-A0848547229F}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/Hon-Hai-could-help-to-rescue-struggling-Sharp 
+     <title>&lt;![CDATA[Hon Hai could help to rescue struggling Sharp]]&gt;</title> 
+     <description>
+      Taiwan&amp;#39;s Hon Hai Precision Industry Co is considering joining efforts to help rescue Japanese electronics maker Sharp Corp, the company said in a statement.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 16:48:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/HonHaiReuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/HonHaiReuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       DISTINCT POSSIBILITY: Hon Hai&amp;#39;s willingness to &amp;quot;participate&amp;quot; in Sharp has never been limited to investing, but could include technology licensing transfer and other forms of cooperation, according to the statement from Hon Hai, which is also known as Foxconn. – Reuters
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {AA8A8EE1-AEC9-4350-A540-47C56D3FC67D}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/China-to-reap-Alibaba-windfall-as-tightens-up-on-tax 
+     <title>&lt;![CDATA[China to reap Alibaba windfall as tightens up on tax]]&gt;</title> 
+     <description>
+      China could make billions of dollars from taxing gains made by employees of e-commerce giant Alibaba Group who are free to sell their shares for the first time since its IPO, as the country tightens up its leaky mechanisms for tax collection.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 15:53:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/JackMareuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/JackMareuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       THE TAXMAN COMETH: Although Alibaba did not disclose the identity of the shareholders subject to the lock-up, many will be taxable in China, where most of its 22,000 people are employed. – Reuters
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {5C15C14E-1287-4AB1-97F2-E3DB5664F6CC}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Hardware/PC/2015/03/23/Slim-and-sleek 
+     <title>&lt;![CDATA[Xperia Z3 Tablet Compact: Slim and sleek]]&gt;</title> 
+     <description>
+      Feel free to give Sony’s latest tablet a dunk.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 15:45:00 +08:00
+     </pubdate> 
+     <author>
+      By LIM YIN TUNG
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Intech/2015/03/23/WesXperiaZ3Tab_tk_5.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Intech/2015/03/23/WesXperiaZ3Tab_tk_5.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Sony Xperia Z3 Tablet Compact
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {1428DC31-AAF6-4288-A135-80DBD844DF6F}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/Uber-ties-up-with-Times-Internet-for-India-expansion 
+     <title>&lt;![CDATA[Uber ties up with Times Internet for India expansion]]&gt;</title> 
+     <description>
+      Uber Technologies Inc, the online ride-hailing company, has entered into a &amp;quot;strategic partnership&amp;quot; with Times Internet, as it looks to expand operations in India, its largest market outside the United States.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 14:47:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/UberIndiandriverReuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/UberIndiandriverReuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       STRATEGIC TIE UP: Under the agreement, Times Internet will work on promotions to increase awareness about Uber and also help the US-based taxi company localise its services for India. – Reuters
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {F8B1FE83-45B3-408F-8F18-53037BAB6D3E}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/Arcade-magic-The-characters-behind-Pixels-alien-force 
+     <title>&lt;![CDATA[Arcade magic: The characters behind 'Pixels' alien force]]&gt;</title> 
+     <description>
+      In just a few days since its release, the trailer for Adam Sandler&amp;#39;s upcoming summer 2015 movie release Pixels has set a new viewing record for Sony. A quick refresher on where the iconic arcade motifs of Pixels came from in the first place, and where to find the games today, on mobile, browser, console or computer.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 14:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/pixels_STITCHED2.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/pixels_STITCHED2.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       RETRO FUN: Curious about the (let&amp;#39;s face it) old videogames in the movie Pixels? Here&amp;#39;s a quick refresher on where the iconic arcade motifs of Pixels came from, and where to find the games today. – AFP/Relaxnews
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {0AB76CC8-1B57-4D9C-9BC2-739DC42CCCAE}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Games/2015/03/23/Lost-in-the-Victorian-fog 
+     <title>&lt;![CDATA[The Order 1886: Lost in the Victorian fog]]&gt;</title> 
+     <description>
+      Ready at Dawn&amp;#39;s The Order: 1886 delivers on the graphics, but falls short when it comes to gameplay.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 12:23:00 +08:00
+     </pubdate> 
+     <author>
+      By TAN KIT HOONG
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Intech/2015/03/23/TKtheorder_tm_12.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Intech/2015/03/23/TKtheorder_tm_12.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Logo for The Order
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {D0D9A2BF-C0A1-410D-90A1-4BA59E439497}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/Steve-Jobs-bio-says-Disney-CEO-kept-Jobs-condition-a-secret-Bloomberg 
+     <title>&lt;![CDATA[Steve Jobs bio says Disney CEO kept Jobs' condition a secret: Bloomberg]]&gt;</title> 
+     <description>
+      Walt Disney Co CEO Bob Iger learned that Steve Jobs&amp;#39; cancer had returned less than an hour before Disney announced it was buying Jobs&amp;#39; Pixar studio in 2006, and Iger kept the Apple co-founder&amp;#39;s condition a secret for three years, according to Bloomberg, citing a new biography of Jobs.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 12:20:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/JobsIgerreuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/JobsIgerreuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       FULL DISCLOSURE: Iger (right) said Jobs told him that the cancer had returned while they were on a private walk at Pixar&amp;#39;s Emeryville, California, campus about 30 minutes before the deal was to be announced. – Reuters
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {9C2053A4-EA5C-44DE-B875-1010E2B35D94}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/Turkey-moves-to-tighten-control-on-Internet 
+     <title>&lt;![CDATA[Turkey moves to tighten control on Internet]]&gt;</title> 
+     <description>
+      Turkey’s parliament has approved legislation to tighten the government’s control over the Internet by allowing it to block websites without prior judicial authorisation, official media said.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 12:02:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/TwitterTurk2.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/TwitterTurk2.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       RETREAD: The article passed by parliament allows Turkey’s telecommunications agency to block a website deemed to be insulting, violating the right to privacy or endangering the stability of the state. – AFP
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {702CEEC5-B1D3-4740-8178-35C5B224DC5E}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/US-Marine-Corps-urges-vigilance-after-online-Islamist-threat 
+     <title>&lt;![CDATA[US Marine Corps urges ‘vigilance’ after online Islamist threat]]&gt;</title> 
+     <description>
+      The US Marine Corps urged “vigilance” after a group claiming to be Islamic State hackers published what they said were the names and addresses of 100 military personnel and urged supporters to kill them.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 11:57:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/USMarine.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/USMarine.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       VIOLATION OF PRIVACY: The warning came after a group calling itself the Islamic State Hacking Division posted information about members of the air force, army and navy, including photos and ranks, on the Internet, according to monitoring group SITE Intelligence. – Reuters
+      </media:description>
+     </media:content> 
+    </item> 
+   </channel> 
+  </rss> 
+ </body>
+</html>

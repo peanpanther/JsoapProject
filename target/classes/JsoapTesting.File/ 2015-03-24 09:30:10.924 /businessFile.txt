@@ -1,0 +1,154 @@
+<!--?xml version="1.0"?-->
+<html>
+ <head></head>
+ <body>
+  <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"> 
+   <channel> 
+    <title>&lt;![CDATA[Business News]]&gt;</title> 
+    <link /> 
+    <description>
+     Business News
+    </description> 
+    <img />
+    <title>The Star Online</title>
+    <link />http://www.thestar.com.my/
+    <url>
+     http://clips.thestar.com.my/img/TSOL_Logo125x40.png
+    </url> 
+    <language>
+     en
+    </language> 
+    <item> 
+     <guid ispermalink="false">
+      {62DA25B4-5803-4AEB-BEDA-F0470F2A5291}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Investing/2015/03/24/AmResearch-neutral-on-healthcare 
+     <title>&lt;![CDATA[AmResearch keeps Neutral on healthcare sector]]&gt;</title> 
+     <description>
+      KUALA LUMPUR: AmResearch has maintained its Neutral call the healthcare sector, it said in a note on Tuesday.
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 09:13:00 +08:00
+     </pubdate> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {2D974E56-1CE0-47FE-8C28-4F3DF571558A}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/24/US-crude-drops-towards-$47 
+     <title>&lt;![CDATA[US crude drops towards US$47, inventory seen hitting record again]]&gt;</title> 
+     <description>
+      SEOUL: U.S. oil futures edged down towards $47 a barrel on Tuesday as U.S. crude stocks were forecast to hit record levels for the eleventh week, but a slightly weaker dollar curbed losses.
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 09:08:00 +08:00
+     </pubdate> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {9B590970-97B9-4973-9702-6EB1363EE33E}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/24/Downside-risks-for-SapuraKencana-limited 
+     <title>&lt;![CDATA[Downside risks for SapuraKencana limited: Maybank Research]]&gt;</title> 
+     <description>
+      KUALA LUMPUR: Maybank Investment Bank Research believes the risk-reward is turning attractive for SapuraKencana Petroleum (SKPetro) as the negatives have been largely priced in.
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 09:01:00 +08:00
+     </pubdate> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {C6E17570-793E-4C68-8C8C-33E88871A982}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/24/Trading-ideas-Scomi-Energy-IHH-Samudra 
+     <title>&lt;![CDATA[Trading ideas: Scomi Energy, IHH, Samudra]]&gt;</title> 
+     <description>
+      KUALA LUMPUR: JF Apex Securities Research expects Scomi Energy, IHH Healthcare, APFT and Kejuruteraan Samudra Timur to see trading action on Tuesday following the fresh corporate developments
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 08:50:00 +08:00
+     </pubdate> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {BCBDF169-9276-44AD-8C3F-FBBB391EADF9}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/24/Malaysian-stocks-market-to-remain-volatile 
+     <title>&lt;![CDATA[Malaysian stock market to remain volatile]]&gt;</title> 
+     <description>
+      KUALA LUMPUR: BIMB Securities Research expects the local market to remain volatile with slightly downward bias due to weak oil prices and ringgit.
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 08:39:00 +08:00
+     </pubdate> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {E26D4D84-0139-422F-9FC0-192DBF6DA571}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/24/US-regulator-sued-by-broadband-companies-over-net-neutrality-rules 
+     <title>&lt;![CDATA[US regulator sued by broadband companies over net neutrality rules]]&gt;</title> 
+     <description>
+      WASHINGTON: U.S. broadband providers on Monday filed lawsuits against the Federal Communications Commission&amp;#39;s recently approved net neutrality rules, launching what is a expected to be a series of legal challenges.
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 08:18:00 +08:00
+     </pubdate> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {DAD41B8D-15E2-48FE-B271-1F8A127D2B36}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/24/Madoff-feeder-fund-settles-as-victims-recovery-crosses-$10b 
+     <title>&lt;![CDATA[Madoff feeder fund settles as victims' recovery tops US$10.6b]]&gt;</title> 
+     <description>
+      NEW YORK: The trustee recovering money for Bernard Madoff&amp;#39;s victims on Monday announced a settlement to recoup $93 million from a &amp;quot;feeder fund&amp;quot; that sent client money to the swindler&amp;#39;s firm, boosting the total sum raised to roughly $10.65 billion.
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 08:11:00 +08:00
+     </pubdate> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {16D1246A-1F06-4AD6-8652-21C993A26D7B}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/24/US-regulators-say-foreign-bank-crisis-plans-fall-short 
+     <title>&lt;![CDATA[US regulators say foreign bank crisis plans fall short]]&gt;</title> 
+     <description>
+      WASHINGTON: US bank regulators faulted crisis plans submitted by three foreign banks on Monday, saying they needed to improve the so-called living wills this year or face regulatory repercussions.
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 08:09:00 +08:00
+     </pubdate> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {A5E9C118-0289-407E-B6D6-C246A9CD7C9A}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/24/Wall-St-slips-after-rally-as-dollar-swings 
+     <title>&lt;![CDATA[Wall St slips after rally as dollar swings]]&gt;</title> 
+     <description>
+      NEW YORK: U.S. stocks edged lower on Monday on the heels of strong gains in the prior week, as investors weighed fluctuations in the dollar and its impact on other markets, including crude prices.
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 08:07:00 +08:00
+     </pubdate> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {1FBB0A81-0B11-406C-A497-B429748D6725}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/24/Tanjung-appoints-special-auditor 
+     <title>&lt;![CDATA[Tanjung appoints special auditor]]&gt;</title> 
+     <description>
+      KUALA LUMPUR: In a surprising turn of events, the parties embroiled in the boardroom tussle at oil-and-gas services provider Tanjung Offshore Bhd have decided to cease their hostilities.
+     </description> 
+     <pubdate>
+      Tue, 24 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+    </item> 
+   </channel> 
+  </rss> 
+ </body>
+</html>

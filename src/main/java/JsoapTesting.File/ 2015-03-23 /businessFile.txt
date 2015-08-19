@@ -1,0 +1,181 @@
+<!--?xml version="1.0"?-->
+<html>
+ <head></head>
+ <body>
+  <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"> 
+   <channel> 
+    <title>&lt;![CDATA[Business News]]&gt;</title> 
+    <link /> 
+    <description>
+     Business News
+    </description> 
+    <img />
+    <title>The Star Online</title>
+    <link />http://www.thestar.com.my/
+    <url>
+     http://clips.thestar.com.my/img/TSOL_Logo125x40.png
+    </url> 
+    <language>
+     en
+    </language> 
+    <item> 
+     <guid ispermalink="false">
+      {EF99CAEA-FD91-4781-BE5D-A0848547229F}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/Hon-Hai-could-help-to-rescue-struggling-Sharp 
+     <title>&lt;![CDATA[Hon Hai could help to rescue struggling Sharp]]&gt;</title> 
+     <description>
+      Taiwan&amp;#39;s Hon Hai Precision Industry Co is considering joining efforts to help rescue Japanese electronics maker Sharp Corp, the company said in a statement.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 16:48:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/HonHaiReuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/HonHaiReuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       DISTINCT POSSIBILITY: Hon Hai&amp;#39;s willingness to &amp;quot;participate&amp;quot; in Sharp has never been limited to investing, but could include technology licensing transfer and other forms of cooperation, according to the statement from Hon Hai, which is also known as Foxconn. – Reuters
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {73A68EEB-A8A9-448B-82B2-FA05FE3A8816}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/23/UMW-aims-to-maintain-market-share 
+     <title>&lt;![CDATA[UMW Toyota aims to maintain 15% market share ]]&gt;</title> 
+     <description>
+      KUALA LUMPUR: UMW Toyota Motor Sdn Bhd expects to maintain its 15% market share of total industry volume this year, driven by new model launches. 
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 16:36:00 +08:00
+     </pubdate> 
+     <author>
+      By Eugene Mahalingam
+     </author> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {E36139BE-9131-4CA3-B275-43BDB1D4A384}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/23/Ekuiti-closes-its-financial-year-2014-FY14-with-total-investments-of-RM605mil 
+     <title>&lt;![CDATA[Ekuinas closes FY 2014 with RM605m investments]]&gt;</title> 
+     <description>
+      KUALA LUMPUR: Ekuiti Nasional Bhd (Ekuinas), a government linked private equity fund management company, recorded investments of up to RM605mil in its financial year 2014 (FY14).
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 16:20:00 +08:00
+     </pubdate> 
+     <author>
+      By Zunaira Saieed
+     </author> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {4E679B3D-E625-495A-979B-FA0FE936B636}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/23/Hong-Leong-Capital-slides-but-off-market-deal-sparks-interest 
+     <title>&lt;![CDATA[Hong Leong Capital slides but off-market deal sparks interest]]&gt;</title> 
+     <description>
+      KUALA LUMPUR: Worried investors sold Hong Leong Capital shares on Monday ahead of its trading suspension on March 26, sending the share price down below the RM10 level.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 15:57:00 +08:00
+     </pubdate> 
+     <author>
+      By Joseph Chin
+     </author> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {AA8A8EE1-AEC9-4350-A540-47C56D3FC67D}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/China-to-reap-Alibaba-windfall-as-tightens-up-on-tax 
+     <title>&lt;![CDATA[China to reap Alibaba windfall as tightens up on tax]]&gt;</title> 
+     <description>
+      China could make billions of dollars from taxing gains made by employees of e-commerce giant Alibaba Group who are free to sell their shares for the first time since its IPO, as the country tightens up its leaky mechanisms for tax collection.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 15:53:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/JackMareuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/JackMareuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       THE TAXMAN COMETH: Although Alibaba did not disclose the identity of the shareholders subject to the lock-up, many will be taxable in China, where most of its 22,000 people are employed. – Reuters
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {9119FF17-AD90-4889-8DB5-4226AC9E832B}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/23/Ikea-to-open-in-Cheras-by-year-end 
+     <title>&lt;![CDATA[Ikea to open in Cheras by year-end]]&gt;</title> 
+     <description>
+      KUALA LUMPUR: Ikano Pte Ltd, the operator of IKEA stores in Singapore, Thailand and Malaysia, is expected to open its second outlet in Cheras by year-end as part of an overall expansion plan across Southeast Asia. 
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 15:02:00 +08:00
+     </pubdate> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {1428DC31-AAF6-4288-A135-80DBD844DF6F}
+     </guid> 
+     <link />http://www.thestar.com.my/Tech/Tech-News/2015/03/23/Uber-ties-up-with-Times-Internet-for-India-expansion 
+     <title>&lt;![CDATA[Uber ties up with Times Internet for India expansion]]&gt;</title> 
+     <description>
+      Uber Technologies Inc, the online ride-hailing company, has entered into a &amp;quot;strategic partnership&amp;quot; with Times Internet, as it looks to expand operations in India, its largest market outside the United States.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 14:47:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/UberIndiandriverReuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/Technology/2015/03/23/UberIndiandriverReuters.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       STRATEGIC TIE UP: Under the agreement, Times Internet will work on promotions to increase awareness about Uber and also help the US-based taxi company localise its services for India. – Reuters
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {F44AD544-A7C3-497C-B5BD-85BA708EB08A}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/23/Moodys 
+     <title>&lt;![CDATA[Moody's: US dollar stems external pressure]]&gt;</title> 
+     <description>
+      SINGAPORE: The stronger US dollar has stemmed external pressures in some countries from signs of weaker currencies and falling foreign exchange reserves.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 13:52:00 +08:00
+     </pubdate> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {8A5914B4-0BA3-4173-AC8D-0427B6D4DAB8}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/23/Scientex-Q2-earnings-at-RM36m 
+     <title>&lt;![CDATA[Scientex Q2 earnings up 6.3% to RM36m]]&gt;</title> 
+     <description>
+      KUALA LUMPUR: Scientex Bhd’s earnings rose 6.3% to RM36.05mil in the second quarter ended Jan 31, 2015 from RM33.92mil a year ago on higher revenue from its manufacturing and property sectors. 
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 13:44:00 +08:00
+     </pubdate> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {6C90BBE2-1AC9-4567-82E0-8E756668FBA2}
+     </guid> 
+     <link />http://www.thestar.com.my/Business/Business-News/2015/03/23/Maybank-was-named-the-Best-Bank-Brand-in-Malaysia 
+     <title>&lt;![CDATA[Maybank named ‘Best Bank Brand in Malaysia’]]&gt;</title> 
+     <description>
+      KUALA LUMPUR: Maybank was named the ‘Best Bank Brand in Malaysia’ as it was the only Malaysian founded institution in top 100 global bank brands that was included in the an annual research conducted by Brand Finance.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 12:49:00 +08:00
+     </pubdate> 
+    </item> 
+   </channel> 
+  </rss> 
+ </body>
+</html>

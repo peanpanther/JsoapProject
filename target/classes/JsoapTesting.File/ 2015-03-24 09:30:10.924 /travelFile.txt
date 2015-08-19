@@ -1,0 +1,220 @@
+<!--?xml version="1.0"?-->
+<html>
+ <head></head>
+ <body>
+  <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"> 
+   <channel> 
+    <title>&lt;![CDATA[Malaysia]]&gt;</title> 
+    <link /> 
+    <description>
+     Malaysia
+    </description> 
+    <img />
+    <title>The Star Online</title>
+    <link />http://www.thestar.com.my/
+    <url>
+     http://clips.thestar.com.my/img/TSOL_Logo125x40.png
+    </url> 
+    <language>
+     en
+    </language> 
+    <item> 
+     <guid ispermalink="false">
+      {CFB00CB9-99D8-488F-9266-B758CC39EF8A}
+     </guid> 
+     <link />http://www.thestar.com.my/Lifestyle/Features/2015/03/21/Hiking-with-children-is-good-for-the-whole-family 
+     <title>&lt;![CDATA[Hiking with children is good for the whole family]]&gt;</title> 
+     <description>
+      This family took up hiking together and became better people.
+     </description> 
+     <pubdate>
+      Sat, 21 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+     <author>
+      By JESSY PHUAH
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/features/2015/03/21/str2_CLjessy_xs_LEAD.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/features/2015/03/21/str2_CLjessy_xs_LEAD.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Jungle jaunt: A group photo of the writer (with Lil Joseph in a backpack), her husband beside her, and their kids (from left) Audrey, Dylan and Joshua perched on a tree trunk. They are joined by two other friends from the Freewill Hikers group. Photos: ADRIAN YEONG
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {306F465C-5419-4D2D-95C3-7A712B148D22}
+     </guid> 
+     <link />http://www.thestar.com.my/Travel/Malaysia/2015/03/20/The-first-Taiwan-Travel-Fair-in-Malaysia-is-here 
+     <title>&lt;![CDATA[The first Taiwan Travel Fair in Malaysia is here]]&gt;</title> 
+     <description>
+      Planning for your next family holiday? Eat, shop and cycle with your loved ones in this beautiful enchanting island.
+     </description> 
+     <pubdate>
+      Fri, 20 Mar 2015 06:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/03/12/str2_aistaiwan_attach33_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/03/12/str2_aistaiwan_attach33_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Liuhe Night Market (Kaohsiung) in Taiwan. Photo: Taiwan Tourism Bureau KL (TTBKL)
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {8770CDFD-7C03-41C1-82A5-80E946DA1B48}
+     </guid> 
+     <link />http://www.thestar.com.my/Travel/Malaysia/2015/03/19/Win-Airbnb-stay-at-Sepang-International-Circuit-for-Formula-1-Malaysia-Grand-Prix 
+     <title>&lt;![CDATA[Win Airbnb stay at Sepang International Circuit for Formula 1 Malaysia Grand Prix]]&gt;</title> 
+     <description>
+      Want the best views of the hottest F1 race in the world while staying in an apartment overlooking the track for FREE?
+     </description> 
+     <pubdate>
+      Thu, 19 Mar 2015 11:35:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/03/19/str2_cczf1_chester_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/03/19/str2_cczf1_chester_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Airbnb is offering motorsport fans the chance to spend a night right at the heart of the action at the Sepang F1 Malaysia Grand Prix 2105. Photo: Airbnb
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {4A45F3C0-D9F4-49FC-9DFF-0A04EED59A16}
+     </guid> 
+     <link />http://www.thestar.com.my/Travel/Malaysia/2015/03/19/Guide-to-Kuala-Lumpur-and-the-Klang-Valley 
+     <title>&lt;![CDATA[Guide to Kuala Lumpur and the Klang Valley]]&gt;</title> 
+     <description>
+      KL’s sightseeing spots, heritage sites, shopping destinations, and places to eat - find them all in these guidebooks.
+     </description> 
+     <pubdate>
+      Thu, 19 Mar 2015 06:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/03/12/str2_cczklguide_chester_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/03/12/str2_cczklguide_chester_1.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Thinking of visiting the iconic Sultan Abdul Samad building in Kuala Lumpur? Pick up a copy of KL The Guide before your visit. - Photo from Bluedale Publishing
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {DFAB1DFD-ED1A-453B-A69E-9E7061B49EF1}
+     </guid> 
+     <link />http://www.thestar.com.my/Travel/Malaysia/2015/03/18/TripAdvisors-15th-year-anniversary 
+     <title>&lt;![CDATA[TripAdvisor’s 15th year anniversary]]&gt;</title> 
+     <description>
+      Happy Birthday TripAdvisor – the world’s largest travel site celebrates a milestone anniversary.
+     </description> 
+     <pubdate>
+      Wed, 18 Mar 2015 06:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/03/12/str2_yyta15bday_yoga.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/03/12/str2_yyta15bday_yoga.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       TripAdvisor has reached many milestones leading to its 15th anniversary. Photo: TripAdvisor
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {3C0C052A-3E90-4958-AA3E-C7A9579F233F}
+     </guid> 
+     <link />http://www.thestar.com.my/Travel/Malaysia/2015/03/18/Which-stars-own-these-stunning-hotels-around-the-world 
+     <title>&lt;![CDATA[Which stars own these stunning hotels around the world?]]&gt;</title> 
+     <description>
+      Celebrities are dabbling in the hospitality business, and some of them own some pretty impressive hotels.
+     </description> 
+     <pubdate>
+      Wed, 18 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/17/blancaneaux1f567b150023original.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/17/blancaneaux1f567b150023original.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Blancaneaux Lodge, a luxury resort owned by a famous filmmaker, but who? Photo: AFP
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {DE9EB027-9573-4C4A-8D6F-01955F253A15}
+     </guid> 
+     <link />http://www.thestar.com.my/Travel/Malaysia/2015/03/16/Malaysia-wins-awards-at-ITB-Berlin 
+     <title>&lt;![CDATA[Malaysia wins awards at ITB Berlin]]&gt;</title> 
+     <description>
+      Malaysia a multi-award winner at the one of the world’s largest and most prestigious tourism trade events.
+     </description> 
+     <pubdate>
+      Mon, 16 Mar 2015 06:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/03/12/aisitbberlin_attach33.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/03/12/aisitbberlin_attach33.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       The award-winning Wayang Kulit advertisement invites tourists to &amp;#39;catch a movie a thousand years old…to discover a treasure trove of heritage and culture in one of the most diverse, multi-ethnic societies in the world&amp;#39; in Malaysia. Photo: Tourism Malaysia
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {320C3420-0279-4796-9904-1739194CEE41}
+     </guid> 
+     <link />http://www.thestar.com.my/Travel/Malaysia/2015/03/14/Chilling-at-Cherating 
+     <title>&lt;![CDATA[Chilling at Cherating]]&gt;</title> 
+     <description>
+      This reader is back again to share her experiences with her family in a popular getaway in the East Coast.
+     </description> 
+     <pubdate>
+      Sat, 14 Mar 2015 00:00:00 +08:00
+     </pubdate> 
+     <author>
+      By YOON LAI WAN
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/features/2015/03/14/str2_sharecherating3_yogaJPG_LEAD.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/features/2015/03/14/str2_sharecherating3_yogaJPG_LEAD.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       It’s a dog’s life: Yoon’s niece with her pets and another guest’s dog. Photos: Yoon Lai Wan
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {BEF2F8F9-BCDF-495B-BA55-4DCE02620C04}
+     </guid> 
+     <link />http://www.thestar.com.my/Travel/Malaysia/2015/03/11/Cities-to-watch-in-2015 
+     <title>&lt;![CDATA[Cities to watch in 2015]]&gt;</title> 
+     <description>
+      London, Santiago and Paris top list of trending destinations this year.
+     </description> 
+     <pubdate>
+      Wed, 11 Mar 2015 06:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/02/26/str2_relaxtrending15_chester.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/02/26/str2_relaxtrending15_chester.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       The city of London in England has topped destinations for 2015 according to the American Express Travel Survey. - Photo: AFP
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {3A91C918-4683-4AC3-B33B-4C5AED914FD1}
+     </guid> 
+     <link />http://www.thestar.com.my/Travel/Malaysia/2015/03/10/TripAdvisor-survey-on-solo-travel-for-women 
+     <title>&lt;![CDATA[TripAdvisor survey on solo travel for women]]&gt;</title> 
+     <description>
+      There’s nothing wrong with travelling alone and more women are agreeing with that according to a recent survey.
+     </description> 
+     <pubdate>
+      Tue, 10 Mar 2015 06:00:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/03/05/str2_yytasolofemm_yoga.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/ForOnline/2015/03/05/str2_yytasolofemm_yoga.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       The majestic Angkor Wat. Photo: National Geographic Channel
+      </media:description>
+     </media:content> 
+    </item> 
+   </channel> 
+  </rss> 
+ </body>
+</html>

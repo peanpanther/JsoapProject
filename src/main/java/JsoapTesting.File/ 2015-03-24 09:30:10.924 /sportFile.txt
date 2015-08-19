@@ -1,0 +1,214 @@
+<!--?xml version="1.0"?-->
+<html>
+ <head></head>
+ <body>
+  <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"> 
+   <channel> 
+    <title>&lt;![CDATA[Football]]&gt;</title> 
+    <link /> 
+    <description>
+     Football
+    </description> 
+    <img />
+    <title>The Star Online</title>
+    <link />http://www.thestar.com.my/
+    <url>
+     http://clips.thestar.com.my/img/TSOL_Logo125x40.png
+    </url> 
+    <language>
+     en
+    </language> 
+    <item> 
+     <guid ispermalink="false">
+      {1CB84F33-ADCF-49FE-A659-C91CA7E905A3}
+     </guid> 
+     <link />http://www.thestar.com.my/Sport/Football/2015/03/23/Spurs-first-to-play-Malaysia-in-preseason 
+     <title>&lt;![CDATA[Spurs first to play Malaysia in pre-season]]&gt;</title> 
+     <description>
+      PETALING JAYA: English Premier League (EPL) outfit Tottenham Hotspur will be the first European side to stop over in Malaysia for their pre-season tour this year.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 22:30:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/23/doc6jq5voy0sax1kbao13u3.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2015/03/23/doc6jq5voy0sax1kbao13u3.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Tottenham striker Harry Kane shoots at goal in the EPL match against Leicester last week. - AFP
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {9EBC0DA3-C759-4C11-9392-CAD32C68D7CA}
+     </guid> 
+     <link />http://www.thestar.com.my/Sport/Football/2015/03/23/Mohd-Akram-makes-national-football-team-the-hard-way 
+     <title>&lt;![CDATA[Mohd Akram makes national football team the hard way]]&gt;</title> 
+     <description>
+      PETALING JAYA: Sometimes you have to take a step back to move two steps forward. Just ask JDT II midfielder Mohd Akram Mahinan who took an indirect route to achieve his goal of donning national colours.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 22:15:00 +08:00
+     </pubdate> 
+     <author>
+      By K. RAJAN
+     </author> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {16FD0D96-252B-416D-94FE-EE96CB37E869}
+     </guid> 
+     <link />http://www.thestar.com.my/Sport/Football/2015/03/23/Gerrard-apologises-for-38second-sending-off-against-United 
+     <title>&lt;![CDATA[Gerrard apologises for 38-second sending off against United]]&gt;</title> 
+     <description>
+      LIVERPOOL, England (Reuters) - Liverpool captain Steven Gerrard apologised after he was sent off for a rash stamp having been on the pitch for just 38 seconds of their 2-1 defeat to Manchester United on Sunday.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 02:22:06 +08:00
+     </pubdate> 
+     <author>
+      By Toby Davis
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Reuters Sport/2015/03/23/20150322T181752Z_1_LYNXMPEB2L0C0_RTROPTP_3_FOOTBALL.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Reuters Sport/2015/03/23/20150322T181752Z_1_LYNXMPEB2L0C0_RTROPTP_3_FOOTBALL.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Football - Liverpool v Manchester United - Barclays Premier League - Anfield - 22/3/15 Liverpool&amp;#39;s Steven Gerrard walks off dejected after being sent off Action Images via Reuters / Carl Recine Livepic
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {3EB45366-7F56-46B3-B2A1-3A2DD9E2239A}
+     </guid> 
+     <link />http://www.thestar.com.my/Sport/Football/2015/03/23/Few-players-capable-of-Suarez-goal-says-Barca-coach 
+     <title>&lt;![CDATA[Few players capable of Suarez goal, says Barca coach]]&gt;</title> 
+     <description>
+      BARCELONA (Reuters) - Barcelona coach Luis Enrique believes that few players would be capable of scoring the Luis Suarez goal that gave them a2-1 victory over Real Madrid in Sunday’s La Liga ‘Clasico’.
+     </description> 
+     <pubdate>
+      Mon, 23 Mar 2015 08:32:10 +08:00
+     </pubdate> 
+     <author>
+      By Tim Hanlon
+     </author> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {6834213F-FB92-4BD2-832E-72E5267F307F}
+     </guid> 
+     <link />http://www.thestar.com.my/Sport/Football/2014/12/24/Cameroons-Song-left-out-of-Nations-Cup-squad 
+     <title>&lt;![CDATA[Cameroon's Song left out of Nations Cup squad]]&gt;</title> 
+     <description>
+      (Reuters) - Cameroon have left in-form West Ham United midfielder Alex Song out of their 23-man squad for next month&amp;#39;s African Nations Cup finals in Equatorial Guinea which was named on Tuesday.
+     </description> 
+     <pubdate>
+      Wed, 24 Dec 2014 22:07:02 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Reuters Sport/2014/12/24/20141224T130857Z_1_LYNXMPEABN0C9_RTROPTP_3_SOCCERFRIENDLY.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Reuters Sport/2014/12/24/20141224T130857Z_1_LYNXMPEABN0C9_RTROPTP_3_SOCCERFRIENDLY.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Portugal&amp;#39;s Fabio Coentrao (R) fights for the ball with the Cameroon&amp;#39;s Alex Song during their international friendly soccer match at Leiria stadium March 5, 2014. REUTERS/Hugo Correia
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {202771E3-DA0F-462E-BE59-2623CBE5C37C}
+     </guid> 
+     <link />http://www.thestar.com.my/Sport/Football/2014/12/24/Southampton-sign-Dutch-winger-Elia-on-loan-from-Bremen 
+     <title>&lt;![CDATA[Southampton sign Dutch winger Elia on loan from Bremen]]&gt;</title> 
+     <description>
+      LONDON (Reuters) - Southampton have agreed to sign Werder Bremen&amp;#39;s Netherlands winger Eljero Elia on loan until the end of the season, the Premier League club said on Tuesday.
+     </description> 
+     <pubdate>
+      Wed, 24 Dec 2014 21:32:02 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Reuters Sport/2014/12/24/20141223T211946Z_1_LYNXMPEABM0UX_RTROPTP_3_SOCCERGERMANY.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Reuters Sport/2014/12/24/20141223T211946Z_1_LYNXMPEABM0UX_RTROPTP_3_SOCCERGERMANY.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Emir Spahic challenges Eljero Elia (L) during a Bundesliga soccer match in Leverkusen September 12, 2014. REUTERS/Ina Fassbender 
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {DAC4A011-4451-4217-A396-F82166207685}
+     </guid> 
+     <link />http://www.thestar.com.my/Sport/Football/2014/12/24/Khedira-would-be-happy-to-extend-Real-Madrid-contract 
+     <title>&lt;![CDATA[Khedira would be happy to extend Real Madrid contract]]&gt;</title> 
+     <description>
+      MADRID (Reuters) - Germany midfielder Sami Khedira has indicated he would be happy to extend his contract with Real Madrid beyond June 2015 if an agreement can be reached.
+     </description> 
+     <pubdate>
+      Wed, 24 Dec 2014 21:22:02 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Reuters Sport/2014/12/24/20141224T083504Z_1_LYNXMPEABN07L_RTROPTP_3_SOCCERSPAIN.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Reuters Sport/2014/12/24/20141224T083504Z_1_LYNXMPEABN07L_RTROPTP_3_SOCCERSPAIN.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Real Madrid&amp;#39;s Sami Khedira (L) and Toni Kroos attend a training session at Valdebebas training grounds, outside Madrid August 5, 2014. REUTERS/Juan Medina 
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {8659CE08-9DB9-415D-838F-FA85D272A448}
+     </guid> 
+     <link />http://www.thestar.com.my/Sport/Football/2014/12/24/Chelsea-aim-to-deny-rivals-City-any-festive-cheer 
+     <title>&lt;![CDATA[Chelsea aim to deny rivals City any festive cheer]]&gt;</title> 
+     <description>
+      LONDON (Reuters) - The omens are good for a Chelsea side heading into Christmas top of the Premier League tree but manager Jose Mourinho does not want to give title rivals Manchester City any reason to cheer over the festive season.
+     </description> 
+     <pubdate>
+      Wed, 24 Dec 2014 17:52:02 +08:00
+     </pubdate> 
+     <author>
+      By Michael Hann
+     </author> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Reuters Sport/2014/12/24/20141224T020817Z_1_LYNXMPEABN02U_RTROPTP_4_SOCCERENGLAND.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Reuters Sport/2014/12/24/20141224T020817Z_1_LYNXMPEABN02U_RTROPTP_4_SOCCERENGLAND.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Chelsea manager Jose Mourinho reacts during their English Premier League soccer match against Hull City at Stamford Bridge in London December 13, 2014. REUTERS/Eddie Keogh
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {9571691A-1085-4B94-B0BE-E11287A287FE}
+     </guid> 
+     <link />http://www.thestar.com.my/Sport/Football/2014/12/24/Agbonlahor-wins-red-card-appeal 
+     <title>&lt;![CDATA[Agbonlahor wins red card appeal]]&gt;</title> 
+     <description>
+      LONDON (Reuters) - Aston Villa forward Gabriel Agbonlahor has won his appeal against the red card he received during the Premier League match against Manchester United, the FA said on Tuesday.
+     </description> 
+     <pubdate>
+      Wed, 24 Dec 2014 00:52:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Reuters Sport/2014/12/24/20141223T164553Z_1_LYNXMPEABM0OJ_RTROPTP_3_SOCCERENGLAND.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Gallery/Reuters Sport/2014/12/24/20141223T164553Z_1_LYNXMPEABM0OJ_RTROPTP_3_SOCCERENGLAND.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Aston Villa&amp;#39;s Gabriel Agbonlahor walks off the pitch after being shown a red card during their English Premier League soccer match against Manchester United at Villa Park in Birmingham, central England December 20, 2014. REUTERS/Darren Staples
+      </media:description>
+     </media:content> 
+    </item> 
+    <item> 
+     <guid ispermalink="false">
+      {53B64027-200C-4279-B07D-C2C32BEDC02E}
+     </guid> 
+     <link />http://www.thestar.com.my/Sport/Football/2014/12/24/No-injury-returns-for-Man-United-says-Van-Gaal 
+     <title>&lt;![CDATA[No injury returns for Man United, says Van Gaal]]&gt;</title> 
+     <description>
+      LONDON (Reuters) - None of Manchester United&amp;#39;s injured players are likely to be fit for the next Premier League match against Newcastle United, manager Louis van Gaal said on Tuesday.
+     </description> 
+     <pubdate>
+      Wed, 24 Dec 2014 00:37:00 +08:00
+     </pubdate> 
+     <enclosure url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2014/12/24/doc6hqpeqg7ct3crdi06h7.ashx?crop=1&amp;w=460&amp;h=345&amp;" length="" type="image/jpeg" /> 
+     <media:content url="http://www.thestar.com.my/~/media/Images/TSOL/Photos-Upload/From DCX/2014/12/24/doc6hqpeqg7ct3crdi06h7.ashx?crop=1&amp;w=460&amp;h=345&amp;" type="image/jpeg">
+      <media:description>
+       Manchester United&amp;#39;s Dutch midfielder Daley Blind has been recovering from a knee injury he sustained during Holland&amp;#39;s 6-0 win over Latvia last month. - Filepic
+      </media:description>
+     </media:content> 
+    </item> 
+   </channel> 
+  </rss> 
+ </body>
+</html>
